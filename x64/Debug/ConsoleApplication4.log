@@ -1,0 +1,2 @@
+﻿  ConsoleApplication4.cpp
+c:\users\hp\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(6): fatal error C1083: Cannot open include file: 'boost/asio.hpp': No such file or directory
